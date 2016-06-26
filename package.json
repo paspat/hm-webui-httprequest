@@ -1,0 +1,18 @@
+{
+  "name": "hm-webui-httprequest",
+  "version": "0.0.1",
+  "description": "A hm-webui plugin to do easy http request from a scripting language",
+  "keywords": [
+    "hm-webui",
+    "hm-webui-plugin",
+    "http",
+    "url",
+    "script"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "url": "^0.11.0"
+  },
+  "hm-webui-type": [ "httprequest" ],
+  "hm-webui-icon": "globe.png"  
+}
